@@ -1,0 +1,5 @@
+﻿  lma_main.cpp
+E:\Documents\TU Freiberg CMS\3.Sem-Study Material\PPP\Working_Directory\LMA_FEA_2ELE_PROBLEM\lma_main.cpp(19,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  plotme.cpp
+  Generating Code...
+  LMA_FEA_2ELE_PROBLEM.vcxproj -> E:\Documents\TU Freiberg CMS\3.Sem-Study Material\PPP\Working_Directory\LMA_FEA_2ELE_PROBLEM\Debug\LMA_FEA_2ELE_PROBLEM.exe
